@@ -1,0 +1,8 @@
+
+*.o
+*.a
+*.dll
+Makefile
+Makefile.Release
+Makefile.Debug
+*.exe
